@@ -9,6 +9,6 @@ There are 3 types of Recommendation engines:
 
 To know more, please checkout these articles.
 
-https://medium.com/analytics-vidhya/how-to-build-a-restaurant-recommendation-engine-part-1-21aadb5dac6e
+https://www.theaidream.com/post/how-to-build-a-restaurant-recommendation-engine-part-1
 
-https://medium.com/analytics-vidhya/how-to-build-a-restaurant-recommendation-engine-part-2-71e2d0721084
+https://www.theaidream.com/post/how-to-build-a-restaurant-recommendation-engine-part-2
